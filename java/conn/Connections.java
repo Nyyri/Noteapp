@@ -27,7 +27,7 @@ public class Connections {
 		// See https://github.com/GoogleCloudPlatform/cloud-sql-jdbc-socket-factory for
 		// details.
 		config.addDataSourceProperty("socketFactory", "com.google.cloud.sql.mysql.SocketFactory");
-		config.addDataSourceProperty("cloudSqlInstance", "bold-oasis-361607:europe-north1:fishlistsql");
+		config.addDataSourceProperty("cloudSqlInstance", "***url_poistettu***");
 		config.addDataSourceProperty("useSSL", "false");
 
 		// ... Specify additional connection properties here.
