@@ -1,2 +1,2 @@
 # Noteapp
-Osuuteni HAMK mobiiliohjelmoinnin projektista.
+Osuuteni HAMK mobiiliohjelmoinnin projektista, jota käytän koodinäytteenä :^)
